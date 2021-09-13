@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karunmahadevan
 - 🌱 I’m currently majoring in Computer Science and Chinese
-- 💞️ I’m looking to collaborate on anything adn everything!
+- 💞️ I’m looking to collaborate on anything and everything!
 - 📫 email me @karunmahadevan1@gmail.com
 
 <!---
