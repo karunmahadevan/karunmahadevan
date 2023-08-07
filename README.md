@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karunmahadevan
-- 🌱 I’m currently majoring in Computer Science and Chinese
+- 🌱 Software developer - majored in CS and Chinese
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 email me @karunmahadevan1@gmail.com
 
